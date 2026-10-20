@@ -1,0 +1,18 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Build
+target/
+build/
+
+# Secretos y configuración local
+.env
+*.local.yaml
+
+# Sistema
+.DS_Store
+Thumbs.db
